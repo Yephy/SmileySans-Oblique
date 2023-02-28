@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'SmileySans-Oblique';
+  src: url(./SmileySans-Oblique.eot);
+  src: url(./SmileySans-Oblique.eot?#iefix) format('embedded-opentype'),
+       url(./SmileySans-Oblique.otf) format('otf'),
+       url(./SmileySans-Oblique.svg#SmileySans-Oblique) format('svg'),
+       url(./SmileySans-Oblique.ttf) format('truetype'),
+       url(./SmileySans-Oblique.woff) format('woff'),
+       url(./SmileySans-Oblique.woff2) format('woff2');
+}
